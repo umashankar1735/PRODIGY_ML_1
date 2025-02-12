@@ -1,7 +1,3 @@
-Here’s a **README** template for the task of implementing a linear regression model for house price prediction, which can be posted to GitHub:
-
----
-
 # House Price Prediction Using Linear Regression
 
 This repository contains the implementation of a linear regression model to predict house prices based on key features such as square footage, number of bedrooms, and number of bathrooms. The dataset used is from the [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) competition on Kaggle.
@@ -133,6 +129,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### Notes:
-- Replace placeholders like `your-username` and the repository name with your actual GitHub details.
-- If you're using a Jupyter notebook, you may also want to add a note on how to run the notebook, e.g., using `jupyter notebook` to launch it.
